@@ -1,0 +1,40 @@
+.一 {
+    font-family: Courier;
+    font-size: large;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.二 {
+    font-family: Verdana;
+    font-size: small;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.三 {
+    font-family: monospace;
+    font-style: oblique;
+    font-weight: 500;    
+}
+
+.四 {
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.五 {
+    font-family:'Times New Roman', Times, serif ;
+    font-size: x-small;
+}
+
+.六 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-small;
+}
+
+h2 {
+    color: blue;
+}
