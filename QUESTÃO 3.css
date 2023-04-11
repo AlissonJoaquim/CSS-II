@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('maca.jpg');
+  }
+  
+  h1 {
+    font-family: 'Times New Roman', serif;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+  }
+  
+  p.ingredients {
+    font-size: 1.2em;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  p.strikethrough {
+    text-decoration: line-through;
+  }
+  
+  p.time {
+    font-style: italic;
+  }
+  
+  div.instructions {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  .obrigatorio {
+        color: green;
+ }
+ .agosto {
+    color: blue;
+}
